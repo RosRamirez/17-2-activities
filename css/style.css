@@ -5,3 +5,11 @@ body {
 p {
     color: blueviolet;
 }
+
+.redparagraph {
+    color: red;
+}
+
+.largesize {
+    font-size: 35px;
+}
